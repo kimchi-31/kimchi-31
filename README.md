@@ -17,9 +17,9 @@ _or you can call me Chi Chi :)_
 ---
 
 ## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@yourusername)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@yourchannel)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/chichi.psd)  
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@babo_bubu)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@3luongkimchi373)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:luongkimchi3101@gmail.com)
 
 ---
