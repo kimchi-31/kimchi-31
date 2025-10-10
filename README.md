@@ -17,11 +17,13 @@ _or you can call me Chi Chi :)_
 - 🎯 Career goal: Become a professional graphic designer specializing in branding & digital content
 ---
 
-## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/chichi.psd)  @chichi.psd
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@babo_bubu)  @babo_bubu
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@3luongkimchi373) @3luongkimchi373
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:luongkimchi3101@gmail.com) luongkimchi3101@gmail.com
+## 🌐 Socials 
+
+[![Instagram](https://img.shields.io/badge/-@chichi.psd-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/chichi.psd)  
+[![TikTok](https://img.shields.io/badge/-@babo_bubu-000000?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@babo_bubu)  
+[![YouTube](https://img.shields.io/badge/-@3luongkimchi373-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@3luongkimchi373)  
+[![Behance](https://img.shields.io/badge/-@cChiChi-1769FF?style=flat&logo=Behance&logoColor=white)](https://www.behance.net/chichi221)  
+[![Facebook](https://img.shields.io/badge/-@chi.chi.818790-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/chi.chi.818790/)
 
 ---
 
@@ -54,5 +56,7 @@ _or you can call me Chi Chi :)_
 - TOEIC 915/990 (2024)
 
 ---
+
+📨 Email me at luongkimchi3101@gmail.com to propose a project or talk about collaboration.
 
 _Thanks for visiting my profile! Let's connect and create something beautiful together 💖_
