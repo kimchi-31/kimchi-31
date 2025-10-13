@@ -10,7 +10,6 @@ _or you can call me Chi Chi :)_
 
 ## 💫 About Me
 - 🎓 Multimedia student at PTIT HCMC  
-- 🏆 Excellent scholarship for 3 semesters  
 - ✨ Exploring UI/UX, illustration, and creative design  
 - 📸 Sharing my journey through vibrant visuals
 - 🎨 Love drawing, photography, and designing colorful concepts
